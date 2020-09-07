@@ -1,5 +1,7 @@
 # 5_MatPlotLib_Homework
 
+These instructions were copied from the assignment instructions.  
+
 ![Laboratory](https://user-images.githubusercontent.com/66078772/92342678-20d06180-f087-11ea-97e3-95a7277d2d77.jpg)
 
 Background
